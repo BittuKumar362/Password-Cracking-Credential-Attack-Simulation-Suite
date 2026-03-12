@@ -5,15 +5,15 @@ This project helps illustrate how weak passwords can be identified and compromis
 
 ---
 
-## Features 
+# Features 
 
-### Dictionary Generation 
+### 1. Dictionary Generation 
 
 - Generates password candidates using personal information.
 
 - Includes pattern variations and character mutations.
 
-### Password Strength Analysis
+### 2. Password Strength Analysis
 
 - Calculates password entropy.
 
@@ -21,19 +21,19 @@ This project helps illustrate how weak passwords can be identified and compromis
 
 - Provides recommendations for improving password security.
 
-### Password Audit Report
+### 3. Password Audit Report
 
 - Generates a structured password security report.
 
 - Displays password entropy, strength level, and recommendations.
 
-### Hash Extraction
+### 4. Hash Extraction
 
 - Extracts hashes from sample files.
 
 - Supports hash extraction from Linux shadow samples and Windows hash dumps.
 
-### Hash Cracking Simulation
+### 5. Hash Cracking Simulation
 
 - Performs dictionary-based hash cracking.
 
@@ -132,7 +132,7 @@ Place hashes inside the following files:
 ``` 
 ## Educational Purpose
 
-###This project demonstrates:
+### This project demonstrates:
 
 - Password security weaknesses
 
