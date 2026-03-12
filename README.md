@@ -99,7 +99,7 @@ Run:
 ### Options:
 1.	Load hash from file
 2.	Enter hash manually
-## Example Output
+### Example
 ```bash
 Target Hash: 900150983cd24fb0d6963f7d28e17f72
 Recovered Password: abc
@@ -166,6 +166,60 @@ It is designed for learning cybersecurity concepts and ethical password auditing
 - Unauthorized password cracking or credential attacks against real systems is illegal and unethical.
 
 ---
+## Conclusion
+The Password Cracking & Credential Attack Suite demonstrates how weak passwords can be analyzed and compromised using dictionary-based password cracking techniques. By combining dictionary generation, password strength analysis, hash extraction, and hash cracking simulation, the project highlights common vulnerabilities in password-based authentication systems.
+This toolkit provides a practical learning environment for understanding password security concepts and ethical credential testing. It emphasizes the importance of strong password policies and secure authentication practices to protect systems from password-based attacks.
+
+--- 
+
+## Future Improvements
+
+The project can be further improved with additional features such as:
+
+- Support for multiple hashing algorithms (SHA-256, SHA-512, bcrypt, NTLM)
+
+- GPU-accelerated password cracking simulation
+
+- Advanced password pattern detection
+
+- Integration with larger password datasets
+
+- Improved hash format detection
+
+- Visualization dashboard for password audit results
+
+These improvements would make the toolkit more powerful for cybersecurity research and learning.
+
+--- 
+
+## Issues
+
+If you encounter any bugs or have suggestions for improvements, please open an issue in the repository.
+
+- When reporting issues, please include:
+- Description of the problem
+- Steps to reproduce the issue
+- Expected vs actual behavior
+- System environment (Python version, OS)
+
+This helps maintainers quickly identify and resolve problems.
+
+---
+
+## License
+
+This project is released under the MIT License.
+
+You are free to:
+
+- Use
+
+- Modify
+
+- Distribute
+
+the code for educational and research purposes.
+However, the authors are not responsible for any misuse of this software.
 
 ## Author
 Bittu Kumar
