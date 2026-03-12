@@ -44,7 +44,7 @@ This project helps illustrate how weak passwords can be identified and compromis
 ## Installation
 ```bash 
 git clone https://github.com/BittuKumar362/Password-Cracking-Credential-Attack-Simulation-Suite.git
-cd PasswordCrackingCredentialAttackSuite
+cd Password-Cracking-Credential-Attack-Simulation-Suite
 chmod +x install.sh
 ./install.sh
 
