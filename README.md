@@ -96,7 +96,7 @@ Run:
 ```bash 
 	python3 crack_hash.py
 ``` 
-## Options:
+### Options:
 1.	Load hash from file
 2.	Enter hash manually
 ## Example Output
@@ -117,18 +117,19 @@ Recommendations:
 - Add symbols
 ``` 
 
-## 3. Hash Extraction
+### 3. Hash Extraction
 Run:
 ```bash
 	python3 test_hash_extractor.py
 ``` 
 The module extracts hashes from files located in the hashes directory.
-## 4. Hash Input Files
+### 4. Hash Input Files
 Place hashes inside the following files:
 ```bash 
 •	hashes/hash.txt
 •	hashes/shadow_sample.txt
 •	hashes/windows_hashes.txt
+
 ``` 
 ## Educational Purpose
 
@@ -144,6 +145,8 @@ Place hashes inside the following files:
 
 It is designed for learning cybersecurity concepts and ethical password auditing techniques.
 
+--- 
+
 ## Limitations
 
 - Currently supports limited hash algorithms (mainly MD5).
@@ -154,17 +157,23 @@ It is designed for learning cybersecurity concepts and ethical password auditing
 
 - Hash extraction uses sample files only.
 
+---
+
 ## Ethical Use Disclaimer
 
 - This tool is created strictly for educational and research purposes.
 - It should only be used in controlled lab environments or systems where you have explicit permission.
 - Unauthorized password cracking or credential attacks against real systems is illegal and unethical.
 
+---
+
 ## Author
 Bittu Kumar
 B.Tech CSE | Cybersecurity Enthusiast
 - GitHub: https://github.com/BittuKumar362
 - LinkedIn: https://www.linkedin.com/in/bittu-kumar-ab2373339/
+
+---
 
 ## Output Example 
 1. main.py:
