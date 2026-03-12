@@ -169,16 +169,21 @@ B.Tech CSE | Cybersecurity Enthusiast
 ## Output Example 
 1. main.py:
  <img width="975" height="308" alt="image" src="https://github.com/user-attachments/assets/9bd8f2f2-1228-47b1-bdb4-90bc9472dc90" />
+
+ 
 2. reports/audit_report.txt: 
  <img width="975" height="525" alt="image" src="https://github.com/user-attachments/assets/efa80483-0dd4-4507-accd-7ebdce840aa3" />
 <img width="975" height="571" alt="image" src="https://github.com/user-attachments/assets/ca9f0c1e-5895-4bb9-9c18-9a1ea9135881" />
+
 
 3. wordlists/generated.txt  
 <img width="975" height="541" alt="image" src="https://github.com/user-attachments/assets/69657a75-6c66-4f7f-8837-b8d40533e0ba" />
 <img width="975" height="619" alt="image" src="https://github.com/user-attachments/assets/a6b12353-e0d1-43a9-bb01-672e808ba546" />
 
+
 4. crack_hash.py
 <img width="975" height="506" alt="image" src="https://github.com/user-attachments/assets/faec3c1f-e47b-4241-961b-57cd23d624ca" />
+
 
 5. test_hash_extractor.py
 <img width="975" height="487" alt="image" src="https://github.com/user-attachments/assets/840a32f1-783f-4cf0-b79d-041ed6aea8b8" />
