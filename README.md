@@ -47,8 +47,10 @@ git clone https://github.com/BittuKumar362/Password-Cracking-Credential-Attack-S
 cd Password-Cracking-Credential-Attack-Simulation-Suite
 chmod +x install.sh
 ./install.sh
+``` 
+<img width="1841" height="604" alt="Screenshot_2026-03-12_09_52_12" src="https://github.com/user-attachments/assets/8b9c55ec-700a-4bd4-973e-3783c19e2ecf" />
 
-```
+--- 
 ## Usage
 ### 1. Password Audit & Dictionary Generation
 Run:
