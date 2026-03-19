@@ -1,9 +1,8 @@
 import re
 
 
-# -----------------------------
+
 # Identify hashing algorithm
-# -----------------------------
 def identify_hash(hash_value):
 
     length = len(hash_value)
@@ -33,9 +32,7 @@ def identify_hash(hash_value):
         return "Unknown"
 
 
-# -----------------------------
 # Extract Linux /etc/shadow
-# -----------------------------
 def extract_shadow(file_path):
 
     results = []
@@ -63,9 +60,7 @@ def extract_shadow(file_path):
     return results
 
 
-# -----------------------------
 # Extract Windows SAM hashes
-# -----------------------------
 def extract_windows_hashes(file_path):
 
     results = []
@@ -92,10 +87,7 @@ def extract_windows_hashes(file_path):
 
     return results
 
-
-# -----------------------------
 # Generic hash extractor
-# -----------------------------
 def extract_hash(file_path):
 
     hashes = []
